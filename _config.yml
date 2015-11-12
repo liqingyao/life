@@ -24,3 +24,8 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+# PAGINATION
+markdown:         rdiscount
+gems:             [jekyll-paginate]
+paginate_path:    "page:num"
