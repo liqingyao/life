@@ -4,13 +4,40 @@
  <title>Li Qingyao</title>
  <link href="https://twitter.com/mdo/atom.xml" rel="self"/>
  <link href="https://twitter.com/mdo/"/>
- <updated>2015-11-12T15:58:32-08:00</updated>
+ <updated>2015-11-12T16:15:57-08:00</updated>
  <id>https://twitter.com/mdo</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>课后余韵</title>
+   <link href="https://twitter.com/mdo/2014/03/07/after-class/"/>
+   <updated>2014-03-07T00:00:00-08:00</updated>
+   <id>https://twitter.com/mdo/2014/03/07/after-class</id>
+   <content type="html">&lt;p&gt;系里从英国请来美女博士海龟，她的任务无非是重新适应中国科研大环境和教书育人。我应该庆幸是现在而不是五年十年以后遇到她，因为我不敢确定在中国不断受到洗礼后她是否还会像现在一样。从一个学生的眼里，只能看到教授或者讲师生活中很小的一个片段，但就是这些只言片语组成了我们对他们和世界的看法。&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;似乎刚从国外回来的所谓象牙塔里的硕士博士都会带着一股特殊气息，有时看上去是一种傲慢和远离，有时看上去是一种坚持和抵抗。在不经意的言谈和举止之间他们流露出对国人行为的种种不满，还时不时发发这儿科研腐败牢骚，语气中夹杂着轻蔑的感情好像在说我才不像你们这儿一样，真看不惯。我们会说他们喝了洋酒吃了西餐连头脑都被洗成西方的了。&lt;/p&gt;
+
+&lt;p&gt;可是这些观念恐怕在这位女性海龟博士身上要推翻一些了吧。长相可爱，不到三十，伶牙俐齿。还有她的品质，严谨，求实，勤奋，好奇，灵敏不呆板，还有细节和尊重。在这个教室上过不同课来往过不同老师和教授，自己带白板笔来的她还是第一个，教室的笔没有一支写的出，不过其他老师都会将就过去。&lt;/p&gt;
+
+&lt;p&gt;虽然她的课题和我的方向完全不同，但我觉得今天还是学到了很多。&lt;/p&gt;
+
+&lt;!-- [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project&#39;s readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+
+  &gt; Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+
+It&#39;s an immensely useful tool and one we encourage you to use here with Hyde.
+
+Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll). --&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Hyde</title>
@@ -113,8 +140,7 @@
 
 &lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
 
-&lt;p&gt;&lt;noscript&gt;&lt;pre&gt;400: Invalid request
-&lt;/pre&gt;&lt;/noscript&gt;&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
 
@@ -206,21 +232,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What's Jekyll?</title>
-   <link href="https://twitter.com/mdo/2012/02/06/whats-jekyll/"/>
-   <updated>2012-02-06T00:00:00-08:00</updated>
-   <id>https://twitter.com/mdo/2012/02/06/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&#39;s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;It&#39;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
