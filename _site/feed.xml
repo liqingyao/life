@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2015 17:49:52 -0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 17:49:52 -0800</lastBuildDate>
+    <link>http://life.liqingyao.com/</link>
+    <atom:link href="http://life.liqingyao.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Nov 2015 18:39:46 -0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 18:39:46 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,13 +28,32 @@
 
 </description>
         <pubDate>Thu, 09 Apr 2015 04:23:32 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/04/09/welcome-to-jekyll-copy.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/09/welcome-to-jekyll-copy.html</guid>
+        <link>http://life.liqingyao.com/jekyll/update/2015/04/09/welcome-to-jekyll-copy.html</link>
+        <guid isPermaLink="true">http://life.liqingyao.com/jekyll/update/2015/04/09/welcome-to-jekyll-copy.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>课后余韵</title>
+        <description>&lt;p&gt;系里从英国请来美女博士海龟，她的任务无非是重新适应中国科研大环境和教书育人。我应该庆幸是现在而不是五年十年以后遇到她，因为我不敢确定在中国不断受到洗礼后她是否还会像现在一样。从一个学生的眼里，只能看到教授或者讲师生活中很小的一个片段，但就是这些只言片语组成了我们对他们和世界的看法。&lt;/p&gt;
+
+&lt;p&gt;似乎刚从国外回来的所谓象牙塔里的硕士博士都会带着一股特殊气息，有时看上去是一种傲慢和远离，有时看上去是一种坚持和抵抗。在不经意的言谈和举止之间他们流露出对国人行为的种种不满，还时不时发发这儿科研腐败牢骚，语气中夹杂着轻蔑的感情好像在说我才不像你们这儿一样，真看不惯。我们会说他们喝了洋酒吃了西餐连头脑都被洗成西方的了。&lt;/p&gt;
+
+&lt;p&gt;可是这些观念恐怕在这位女性海龟博士身上要推翻一些了吧。长相可爱，不到三十，伶牙俐齿。还有她的品质，严谨，求实，勤奋，好奇，灵敏不呆板，还有细节和尊重。在这个教室上过不同课来往过不同老师和教授，自己带白板笔来的她还是第一个，教室的笔没有一支写的出，不过其他老师都会将就过去。&lt;/p&gt;
+
+&lt;p&gt;虽然她的课题和我的方向完全不同，但我觉得今天还是学到了很多。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Mar 2015 07:23:32 -0800</pubDate>
+        <link>http://life.liqingyao.com/%E5%AD%A6%E6%A0%A1%E7%94%9F%E6%B4%BB/2015/03/07/after-class.html</link>
+        <guid isPermaLink="true">http://life.liqingyao.com/%E5%AD%A6%E6%A0%A1%E7%94%9F%E6%B4%BB/2015/03/07/after-class.html</guid>
+        
+        
+        <category>学校生活</category>
         
       </item>
     
