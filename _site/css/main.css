@@ -33,8 +33,7 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 100%;
-  vertical-align: middle;
-  horizontal-align: middle; }
+  vertical-align: middle; }
 
 /**
  * Figures
@@ -151,7 +150,7 @@ html, body {
  */
 .header {
   padding: 50px 20px 40px;
-  background-color: #515865; }
+  background-color: #055183; }
 
 .header-container {
   max-width: 700px;
@@ -304,7 +303,7 @@ li {
   bottom: 20px;
   padding: 10px 15px;
   font-size: 20px;
-  background: #515865;
+  background: #055183;
   color: white;
   cursor: pointer; }
 
