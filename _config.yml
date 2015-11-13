@@ -3,8 +3,8 @@ title: Li Qingyao
 motto: 简单，可信赖
 email: qingyao.li@yahoo.com
 description: > # 简单，可信赖。
-baseurl: "http://life.liqingyao.com" # the subpath of your site, e.g. /blog/
-url: "http://www.liqingyao.com" # the base hostname & protocol for your site
+baseurl: "http://liqingyao.com" # the subpath of your site, e.g. /blog/
+url: "http://life.liqingyao.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  liqingyao
 
