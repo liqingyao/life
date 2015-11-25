@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Qingyao</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://life.liqingyao.com/</link>
-    <atom:link href="http://life.liqingyao.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Nov 2015 14:44:21 -0800</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 14:44:21 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.0</generator>
+    <description>Hello World</description>
+    <link>http://code.liqingyao.com/</link>
+    <atom:link href="http://code.liqingyao.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Nov 2015 19:15:38 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2015 19:15:38 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>论“STAP 细胞”事件</title>
-        <description>&lt;p&gt;&lt;strong&gt;如同盛开的樱花，它来得突然，异常美丽；凋零时亦很匆忙，令人唏嘘慨叹。&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;如同盛开的樱花，它来得突然，异常美丽；凋零时亦很匆忙，令人唏嘘慨叹。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://blog.sina.com.cn/s/blog_4cd1c1670102uyvu.html?tj=2&quot;&gt;&lt;strong&gt;导读 1：日本著名科学家为何上吊自杀？&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -58,9 +59,9 @@
 
 &lt;p&gt;天下文章一大抄是写论文时候说的最多的一句话，谁可以保证自己的本科论文、硕士论文、期刊论文没有一句话一幅图完全照搬，我相信恐怕没有。但是作为一篇高质量的科研论文，引用他人的话应该加以自己的转述，引用他人的图片应该按自己的理解重画。在这一点上，小保方晴子的学术修养还不够到家，显然离开真正大家还有一段距离。从这一方面，如果把自身做到万无一失，那么就算欲加之罪也会更困难一些吧。&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 May 2015 04:23:32 -0700</pubDate>
-        <link>http://life.liqingyao.com/%E7%A4%BE%E8%AE%BA/2015/05/13/disscuss-stap-event.html</link>
-        <guid isPermaLink="true">http://life.liqingyao.com/%E7%A4%BE%E8%AE%BA/2015/05/13/disscuss-stap-event.html</guid>
+        <pubDate>Wed, 13 May 2015 19:23:32 +0800</pubDate>
+        <link>http://code.liqingyao.com/disscuss-stap-event/</link>
+        <guid isPermaLink="true">http://code.liqingyao.com/disscuss-stap-event/</guid>
         
         
         <category>社论</category>
@@ -77,9 +78,9 @@
 
 &lt;p&gt;虽然她的课题和我的方向完全不同，但我觉得今天还是学到了很多。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 07 Mar 2015 07:23:32 -0800</pubDate>
-        <link>http://life.liqingyao.com/%E6%A0%A1%E5%9B%AD/2015/03/07/after-class.html</link>
-        <guid isPermaLink="true">http://life.liqingyao.com/%E6%A0%A1%E5%9B%AD/2015/03/07/after-class.html</guid>
+        <pubDate>Sat, 07 Mar 2015 23:23:32 +0800</pubDate>
+        <link>http://code.liqingyao.com/after-class/</link>
+        <guid isPermaLink="true">http://code.liqingyao.com/after-class/</guid>
         
         
         <category>校园</category>

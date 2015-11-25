@@ -1,14 +1,49 @@
 ---
 layout: default
+slug: single
 ---
-<div class="post">
-  <br>
+<article class="post container card">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <span class="post-meta">
+      <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+      <span class="post-author"> &bull; in {{ page.categories }}</span>
+    </span>
   </header>
 
-  <article class="post-content">
+  <div class="post-content">
+
     {{ content }}
-  </article>
-</div>
+
+    <aside class="share">
+
+      <span>Share this to</span>
+
+      <a href="http://twitter.com/share?text={{page.title}}&amp;url={{site.url}}{{ page.url }}&amp;hashtags=web,dev,blog,soudev&amp;via=liqingyao">
+        <i class="fa fa-twitter-square"></i>
+      </a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}">
+        <i class="fa fa-facebook-square"></i>
+      </a>
+      <a href="https://plus.google.com/share?url={{site.url}}{{page.url}}">
+        <i class="fa fa-google-plus-square"></i>
+      </a>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&title={{page.title}}&summary=Li Qingyao&source={{ site.url }}">
+        <i class="fa fa-linkedin-square"></i>
+      </a>
+      <!-- <a href="https://plus.google.com/share?url={{site.url}}{{page.url}}">
+        <i class="fa fa-wechat"></i>
+      </a>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&title={{page.title}}&summary=Li Qingyao&source={{ site.url }}">
+        <i class="fa fa-weibo"></i>
+      </a>
+      <a href="https://www.qq.com/share?url={{site.url}}{{page.url}}">
+        <i class="fa fa-qq"></i>
+      </a> -->
+
+    </aside>
+
+    {% include comments.html %}
+
+  </div>
+</article>
